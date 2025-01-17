@@ -9,3 +9,13 @@ Descrição
 Este projeto utiliza algoritmos de Machine Learning para prever o score de crédito de clientes com base em variáveis socioeconômicas e comportamentais. A previsão de score de crédito é uma ferramenta essencial para instituições financeiras avaliarem o risco associado a clientes antes de conceder crédito ou empréstimos.
 
 O objetivo principal é construir um modelo preditivo que forneça um score confiável para tomada de decisão, utilizando dados históricos e técnicas de aprendizado supervisionado.
+
+# Analise Cancelamentos
+
+## Python Insights - Analisando Dados com Python - (Maratona Hashtag Treinamentos)
+Case: Cancelamento de Clientes
+
+## Descrição
+Este projeto foi desenvolvido para analisar os cancelamentos de clientes em uma empresa com mais de 800 mil clientes. A empresa identificou que uma grande parte da sua base de clientes é composta por clientes inativos, ou seja, aqueles que já cancelaram o serviço.
+
+O objetivo principal deste case é entender os principais motivos dos cancelamentos e propor ações eficientes para reduzir o número de clientes inativos e melhorar os resultados da empresa.
