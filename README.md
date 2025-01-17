@@ -19,3 +19,9 @@ Case: Cancelamento de Clientes
 Este projeto foi desenvolvido para analisar os cancelamentos de clientes em uma empresa com mais de 800 mil clientes. A empresa identificou que uma grande parte da sua base de clientes é composta por clientes inativos, ou seja, aqueles que já cancelaram o serviço.
 
 O objetivo principal deste case é entender os principais motivos dos cancelamentos e propor ações eficientes para reduzir o número de clientes inativos e melhorar os resultados da empresa.
+
+# SISTEMA
+
+## Projeto - BOOTCAMP SOULCODE
+## Descrição:
+Você foi contratado para desenvolver um sistema básico de gerenciamento de funcionários para uma pequena empresa. O sistema deve ser capaz de receber e armazenar informações sobre os funcionários e realizar operações básicas de manipulação desses dados.
